@@ -193,4 +193,8 @@ a.siteTitle {
     
 }
 
+.header_area form {
+    flex-direction: column
+}
+
 }
