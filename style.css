@@ -194,7 +194,8 @@ a.siteTitle {
 }
 
 .header_area form {
-    flex-direction: column
+    flex-direction: column;
+justify-content: center
 }
 
 }
