@@ -183,3 +183,14 @@ a.siteTitle {
 .single_catagory.color {
     background: tomato;
 }
+
+
+@media (max-width:991px){
+
+.moviesContainer .container {
+    
+    grid-template-columns: 1fr;
+    
+}
+
+}
